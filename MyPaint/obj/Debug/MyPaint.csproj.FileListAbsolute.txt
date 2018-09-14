@@ -1,0 +1,318 @@
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\Giữa kì\MyPaint\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu)\MyPaint\obj\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 1_48_5 - Copy\MyPaint\obj\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\MyPaint(SaoLuu) 5_47_6\MyPaint\obj\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\Đồ án giữa kỳ\NguyenTrongPhu_16110540\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\MyPaint.pdb
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.frmMain.resources
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.exe.licenses
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.exe
+D:\Năm 2\Kì 2\Lập trình windows\NguyenTrongPhu_16110540_GiuaKy\Đồ án 1\Source\MyPaint\obj\Debug\MyPaint.pdb
